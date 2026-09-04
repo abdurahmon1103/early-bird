@@ -1,0 +1,13 @@
+[
+  {
+    "_comment": "This is a working EXAMPLE so you can test the project immediately. Replace it with the site(s) you actually want by following the README instructions.",
+    "name": "KNU CSE Notices",
+    "url": "https://cse.knu.ac.kr/bbs/board.php?bo_table=sub6_1_a&lang=kor",
+    "row_selector": "table tbody tr",
+    "title_selector": "div.bo_tit a",
+    "date_selector": "td:last-child",
+    "date_format": "%Y-%m-%d",
+    "base_url": "https://cse.knu.ac.kr/bbs/",
+    "use_proxy": true
+  }
+]
